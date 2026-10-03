@@ -1,1 +1,1 @@
-# Ecommerce FAQ Chatbot 
+# Shopsense-AI
