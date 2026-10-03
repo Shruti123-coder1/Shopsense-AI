@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+venv/
+backend/ml/artifacts/*.pkl
+backend/instance/
+node_modules/
